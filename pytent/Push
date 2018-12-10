@@ -1,0 +1,5 @@
+target=~/dev/home-assistant/homeassistant/components
+cp ha/tentalux.py $target
+cp ha/light/tentalux.py $target/light
+cp ha/scene/tentalux.py $target/scene
+cp ha/camera/tentalux.py $target/camera
